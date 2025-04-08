@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Adeoye Isaac
 
-<!--
-**Adeoye932/Adeoye932** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio! I'm a Software Developer passionate about Coding, Open source tech
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- Programming: `Python`, `JavaScript`, `C++`
+- Web: `HTML`, `CSS`, `React`, `Node.js`
+- Tools: `Git`, `GitHub`, `VS Code`, `Postman`
+
+
+
+## ✨ Highlights
+- Built a full-stack web app that serves over 500+ users
+- Contributed to open-source projects
+- Completed BSC In Statistics from FUNAAB
+## 📫 Connect with Me
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/Adeoye Isaac)
+- GitHub: [Your GitHub](https://github.com/Adeoye932)
+- Email:adeoyeisaac88@gmail.com
+
+---
+TV
+
+_Thanks for visiting my portfolio!_
+
+i
